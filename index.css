@@ -41,6 +41,10 @@ body {
     font-size: 20px;
 }
 
+main section:first-of-type .introPic {
+    width: 100%;
+}
+
 main section:first-of-type div > img {
     position: relative;
     right: 7rem;
